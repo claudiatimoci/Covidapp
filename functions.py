@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import os
 import sqlalchemy as db
-from WebCrawler.pipelines import DataBase
+from pipelines import DataBase
 # from ..pipeline import DataBase
 
 class CovidSpider(scrapy.Spider):
