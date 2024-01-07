@@ -40,7 +40,7 @@ idna==3.6
 importlib-metadata==6.11.0
 incremental==22.10.0
 ipykernel==6.28.0
-ipython==8.19.0
+ipython>=7.0.0
 itemadapter==0.8.0
 itemloaders==1.1.0
 jedi==0.19.1
@@ -85,7 +85,6 @@ pyOpenSSL==23.3.0
 PySocks==1.7.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32==306
 pyzmq==25.1.2
 queuelib==1.6.2
 referencing==0.32.0
@@ -113,7 +112,6 @@ traitlets==5.14.1
 trio==0.23.2
 trio-websocket==0.11.1
 Twisted==22.10.0
-twisted-iocpsupport==1.0.4
 typing_extensions==4.9.0
 tzdata==2023.4
 tzlocal==5.2
