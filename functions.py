@@ -2,7 +2,7 @@
 import sys
 sys.path.append('../')
 import scrapy
-from WebCrawler.items import ReviewsCovidCases
+from items import ReviewsCovidCases
 from scrapy import Request
 import streamlit as st
 import pandas as pd
