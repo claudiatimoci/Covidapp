@@ -40,7 +40,7 @@ idna==3.6
 importlib-metadata==6.11.0
 incremental==22.10.0
 ipykernel==6.28.0
-ipython==8.19.0
+ipython>=7.0.0
 itemadapter==0.8.0
 itemloaders==1.1.0
 jedi==0.19.1
